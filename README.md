@@ -9,6 +9,7 @@ I have added the following features:-
 5.Ability of admin to view and update/delete all the posts and delete the user.
 
 Download all the source code files and make sure python is installed in your system. Run the command- 'python manage.py runserver' on the terminal where the source code is stored. Links to all the featues is visible on the home page.
+
 Some of the important pages of the website is shown in the following screenshots:-
 
 <img width="1430" alt="Screenshot 2023-07-09 at 1 24 28 PM" src="https://github.com/keshavanand1717/DjangoBlog/assets/95139377/4cb4f27c-34ef-4529-a7a0-9f8888f19520">
